@@ -1,0 +1,7 @@
+Graph/Element.pm
+Graph/Edge.pm
+Graph/Node.pm
+Makefile.PL
+MANIFEST
+examples/dgraph.pl
+examples/pmgraph.pl
